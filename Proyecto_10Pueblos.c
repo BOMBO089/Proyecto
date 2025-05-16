@@ -1,3 +1,11 @@
+/*
+
+16/05/2025
+Gonzalez Huerta Alonso
+Proyecto Final
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
